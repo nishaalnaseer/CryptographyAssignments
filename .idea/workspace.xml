@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce22e6f5-2498-4e9d-a7ec-ec97412a57b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CryptographyAssignments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskFourApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskOneLuhnsAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskThreePassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskTwoBCH.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2gxtofFPUAqKs5pN4W0Nkutnd3B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BCH (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.BCH.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Okay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sesha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskFourApp (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TaskFourApp$TextEditor.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TaskFourApp.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TaskOneLuhnsAlgorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TaskThreePassword.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TaskTwoBCH.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TextEditor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nishaalnaseer/IdeaProjects/CryptographyAssignments/jar/javafx-sdk-22.0.1/lib/javafx.web.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nishaalnaseer\IdeaProjects\CryptographyAssignments\jar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TaskOneLuhnsAlgorithm">
+    <configuration name="BCH (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BCH" />
+      <module name="CryptographyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sesha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sesha" />
+      <module name="CryptographyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskOneLuhnsAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskOneLuhnsAlgorithm" />
+      <module name="CryptographyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskThreePassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskThreePassword" />
+      <module name="CryptographyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTwoBCH" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskTwoBCH" />
+      <module name="CryptographyAssignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TaskOneLuhnsAlgorithm" />
+      <item itemvalue="Application.TaskThreePassword" />
+      <item itemvalue="Application.Sesha" />
+      <item itemvalue="Application.BCH (1)" />
+      <item itemvalue="Application.TaskTwoBCH" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskOneLuhnsAlgorithm" />
+        <item itemvalue="Application.TaskTwoBCH" />
+        <item itemvalue="Application.TaskThreePassword" />
+        <item itemvalue="Application.Sesha" />
+        <item itemvalue="Application.BCH (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce22e6f5-2498-4e9d-a7ec-ec97412a57b6" name="Changes" comment="" />
+      <created>1716651236742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716651236742</updated>
+      <workItem from="1716651237858" duration="3908000" />
+      <workItem from="1716791597583" duration="43730000" />
+      <workItem from="1717077573281" duration="1003000" />
+      <workItem from="1717424640439" duration="1168000" />
+      <workItem from="1717426554558" duration="1048000" />
+      <workItem from="1717429111052" duration="2714000" />
+      <workItem from="1719934393046" duration="2035000" />
+      <workItem from="1720275322015" duration="2505000" />
+      <workItem from="1720905316343" duration="863000" />
+      <workItem from="1720924947326" duration="22076000" />
+      <workItem from="1720982184128" duration="1371000" />
+      <workItem from="1721043482144" duration="4475000" />
+      <workItem from="1721122040930" duration="1573000" />
+      <workItem from="1721144609385" duration="1763000" />
+      <workItem from="1722109142716" duration="9299000" />
+      <workItem from="1722279101177" duration="4039000" />
+      <workItem from="1722362571559" duration="568000" />
+      <workItem from="1723003007973" duration="670000" />
+      <workItem from="1723371764509" duration="1252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TaskFourApp.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TaskThreePassword.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CryptographyAssignments$TaskFourApp__1_.ic" NAME="TaskFourApp (1) Coverage Results" MODIFIED="1716969877034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
